@@ -2,3 +2,5 @@ lib
 src-gen
 node_modules
 gen-webpack.config.js
+plugins
+
